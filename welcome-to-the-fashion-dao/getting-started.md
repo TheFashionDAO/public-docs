@@ -24,7 +24,7 @@ The first step is to join [The Fashion DAO Discord](https://discord.com/channels
 Please make sure you **spell your Discord name correctly** and without the # or account number. Otherwise the Typeform/Zapier won't find you and you will have to re-submit your application.
 {% endhint %}
 
-Before you can immerse yourself in client-facing Deep Work projects, you need to sign an agreement and leave a few details about yourself. This will create a portfolio document and make it easier for others to see if you are a fit on a project.
+Before you can immerse yourself in client-facing The Fashion DAO projects, you need to sign an agreement and leave a few details about yourself. This will create a portfolio document and make it easier for others to see if you are a fit on a project.
 
 You can fill out the [Collaborator Typeform here](https://www.thefashiondao.xyz/apply).
 
@@ -98,10 +98,10 @@ The Experts on the project decide who to work with. **Please don't be discourage
 
 ## 6. Create a project in the R\&D department
 
-Internal projects can emerge from a conversation you had on the community call or an idea from a workshop. These can result in defining a new role or even department within Deep Work, or simply a small project you would like to practice your skills on.
+Internal projects can emerge from a conversation you had on the community call or an idea from a workshop. These can result in defining a new role or even department within The Fashion DAO, or simply a small project you would like to practice your skills on.
 
 {% hint style="info" %}
-Community projects are an excellent way to practice any skill you are interested in. It will help you learn from Deep Work experts and experiment in a safe space.
+Community projects are an excellent way to practice any skill you are interested in. It will help you learn from The Fashion DAO experts and experiment in a safe space.
 {% endhint %}
 
-Reach out to the current R\&D representative at Deep Work (you will find their name under the Representatives project of the month in the Deep Skills app) or read here about how to start an internal R\&D project:
+Reach out to the current R\&D representative at The Fashion DAO (you will find their name under the Representatives project of the month in the Deep Skills app) or read here about how to start an internal R\&D project:
