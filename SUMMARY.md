@@ -14,22 +14,19 @@
 ## Working at The Fashion DAO
 
 * [Work Etiquitte](working-at-the-fashion-dao/work-etiquitte.md)
-
-***
-
-* [Apply for work](apply-for-work.md)
-* [Getting Paid](getting-paid/README.md)
-  * [Funding Request](getting-paid/funding-request.md)
-  * [Snapshot Proposal](getting-paid/snapshot-proposal.md)
-  * [Rates](getting-paid/rates/README.md)
-    * [Client non-payment](getting-paid/rates/client-non-payment.md)
-* [Making Payments](making-payments.md)
-* [Profit Share](profit-share/README.md)
-  * [Profit Share Whitelist](profit-share/profit-share-whitelist.md)
-* [Agreement Documents](agreement-documents/README.md)
-  * [Collaborator Agreement](agreement-documents/collaborator-agreement.md)
-  * [Contractor Agreement](agreement-documents/contractor-agreement.md)
-  * [Referral Agreement](agreement-documents/referral-agreement.md)
+* [Apply for work](working-at-the-fashion-dao/apply-for-work.md)
+* [Getting Paid](working-at-the-fashion-dao/getting-paid/README.md)
+  * [Funding Request](working-at-the-fashion-dao/getting-paid/funding-request.md)
+  * [Snapshot Proposal](working-at-the-fashion-dao/getting-paid/snapshot-proposal.md)
+  * [Rates](working-at-the-fashion-dao/getting-paid/rates/README.md)
+    * [Client non-payment](working-at-the-fashion-dao/getting-paid/rates/client-non-payment.md)
+* [Making Payments](working-at-the-fashion-dao/making-payments.md)
+* [Profit Share](working-at-the-fashion-dao/profit-share/README.md)
+  * [Profit Share Whitelist](working-at-the-fashion-dao/profit-share/profit-share-whitelist.md)
+* [Agreement Documents](working-at-the-fashion-dao/agreement-documents/README.md)
+  * [Collaborator Agreement](working-at-the-fashion-dao/agreement-documents/collaborator-agreement.md)
+  * [Contractor Agreement](working-at-the-fashion-dao/agreement-documents/contractor-agreement.md)
+  * [Referral Agreement](working-at-the-fashion-dao/agreement-documents/referral-agreement.md)
 
 ## Functions
 
@@ -134,7 +131,7 @@
 * [TFD Experiences](functions/tfd-experiences/README.md)
   * [Community Steward](functions/tfd-experiences/community-steward.md)
 * [R\&D](functions/r-and-d/README.md)
-  * [Create a new project ->](functions/r-and-d/create-a-new-project-greater-than.md)
+  * [Create a new project ⟶](functions/r-and-d/create-a-new-project.md)
 * [DAO Consultancy](functions/dao-consultancy/README.md)
   * [TFD Steward](functions/dao-consultancy/tfd-steward.md)
 * [TFD Skills](functions/tfd-skills.md)
