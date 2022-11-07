@@ -10,3 +10,7 @@
     * [Design Methodology](welcome-to-the-fashion-dao/about-the-fashion-dao/design-methodology.md)
     * [TFD Token](welcome-to-the-fashion-dao/about-the-fashion-dao/tfd-token/README.md)
       * [Distribution](welcome-to-the-fashion-dao/about-the-fashion-dao/tfd-token/distribution.md)
+
+## Working at The Fashion DAO
+
+* [Work Etiquitte](working-at-the-fashion-dao/work-etiquitte.md)
