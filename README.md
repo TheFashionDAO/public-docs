@@ -12,7 +12,7 @@ Our creative approach consists of project-based **interactive workshops**, **hig
 ****[**Check out our Quick Start Guide to get invovled right away ⟶**](welcome-to-the-fashion-dao/getting-started.md)****
 {% endhint %}
 
-[Join our Discord](https://discord.com/channels/971796278805663885/974063501800771636/1000137463433547857) and become part of our community. After you logged into our Discord, [apply as a Collaborator](https://www.thefashiondao.xyz/apply) to unlock internal channels and start working on client facing projects. During your application you will be asked a few basic questions about yourself and sign an agreement.&#x20;
+[Join our Discord](https://discord.gg/25yd4r9qfr) and become part of our community. After you logged into our Discord, [apply as a Collaborator](https://www.thefashiondao.xyz/apply) to unlock internal channels and start working on client facing projects. During your application you will be asked a few basic questions about yourself and sign an agreement.&#x20;
 
 {% hint style="info" %}
 ****[**You can find all active projects and resources here ⟶**](https://bony-sponge-563.notion.site/Welcome-to-The-Fashion-DAO-6451dac1185747e5b8b060add2fae83e)****

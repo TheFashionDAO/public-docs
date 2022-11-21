@@ -16,7 +16,7 @@ Shadowing is more likely possible if the Experts on the team approve you.
 
 ## 1. Join The Fashion DAO Discord
 
-The first step is to join [The Fashion DAO Discord](https://discord.com/channels/971796278805663885/974063501800771636/1000137463433547857). As you join, most channels will be hidden from you and only unlocked once you sign the Collaborator Typeform below. It asks you a few basic questions and to sign a contract to make sure you don't damage client relationships. Read the [#start-here](https://discord.com/channels/971796278805663885/974063501800771636/1000137463433547857) channel for an overview of the most important channels.
+The first step is to join [The Fashion DAO Discord](https://discord.gg/25yd4r9qfr). As you join, most channels will be hidden from you and only unlocked once you sign the Collaborator Typeform below. It asks you a few basic questions and to sign a contract to make sure you don't damage client relationships. Read the [#start-here](https://discord.com/channels/971796278805663885/974063501800771636/1000137463433547857) channel for an overview of the most important channels.
 
 ## 2. Sign the Contributor Typeform
 
